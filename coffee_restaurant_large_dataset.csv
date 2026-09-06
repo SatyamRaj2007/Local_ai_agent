@@ -1,0 +1,501 @@
+item_id,item_name,category,size,temperature,description,price_inr,rating,calories,availability
+ITEM0001,Vanilla Latte,Coffee,Small,Hot,"Small Vanilla Latte, smooth and creamy, served hot.",220,3.6,202,Available
+ITEM0002,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, rich and strong, served hot.",382,4.0,90,Available
+ITEM0003,Latte,Coffee,Small,Hot,"Small Latte, light and refreshing, served hot.",367,3.6,618,Out of Stock
+ITEM0004,Latte,Coffee,Medium,Cold,"Medium Latte, sweet and aromatic, served cold.",83,4.6,223,Out of Stock
+ITEM0005,Flat White,Coffee,Medium,Hot,"Medium Flat White, chocolate flavored, served hot.",190,4.9,404,Available
+ITEM0006,Americano,Coffee,Medium,Hot,"Medium Americano, caramel flavored, served hot.",263,4.7,330,Available
+ITEM0007,Caramel Latte,Coffee,Medium,Hot,"Medium Caramel Latte, nutty and balanced, served hot.",273,3.3,360,Available
+ITEM0008,Iced Mocha,Dessert,Large,Hot,"Large Iced Mocha, mild and creamy, served hot.",103,4.4,356,Available
+ITEM0009,Irish Cream Coffee,Coffee,Small,Hot,"Small Irish Cream Coffee, smooth and creamy, served hot.",274,3.7,433,Available
+ITEM0010,Flat White,Coffee,Medium,Hot,"Medium Flat White, rich and strong, served hot.",423,3.7,133,Available
+ITEM0011,Iced Latte,Coffee,Large,Hot,"Large Iced Latte, light and refreshing, served hot.",163,4.0,336,Available
+ITEM0012,Vanilla Latte,Coffee,Medium,Hot,"Medium Vanilla Latte, sweet and aromatic, served hot.",197,4.7,383,Out of Stock
+ITEM0013,Mocha,Coffee,Small,Hot,"Small Mocha, chocolate flavored, served hot.",370,4.8,382,Available
+ITEM0014,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, caramel flavored, served cold.",409,4.0,331,Available
+ITEM0015,Latte,Coffee,Large,Cold,"Large Latte, nutty and balanced, served cold.",379,4.0,468,Available
+ITEM0016,Latte,Coffee,Small,Cold,"Small Latte, mild and creamy, served cold.",126,4.6,172,Available
+ITEM0017,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, smooth and creamy, served cold.",385,3.3,450,Out of Stock
+ITEM0018,Iced Latte,Coffee,Medium,Hot,"Medium Iced Latte, rich and strong, served hot.",428,4.5,609,Available
+ITEM0019,Hazelnut Coffee,Coffee,Large,Cold,"Large Hazelnut Coffee, light and refreshing, served cold.",137,3.7,221,Out of Stock
+ITEM0020,Espresso,Coffee,Large,Cold,"Large Espresso, sweet and aromatic, served cold.",336,4.6,579,Available
+ITEM0021,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, chocolate flavored, served cold.",407,4.1,263,Available
+ITEM0022,Flat White,Coffee,Small,Hot,"Small Flat White, caramel flavored, served hot.",386,3.8,79,Available
+ITEM0023,Affogato,Sandwich,Medium,Hot,"Medium Affogato, nutty and balanced, served hot.",109,3.6,640,Available
+ITEM0024,Americano,Coffee,Large,Cold,"Large Americano, mild and creamy, served cold.",115,5.0,605,Available
+ITEM0025,Cappuccino,Coffee,Large,Cold,"Large Cappuccino, smooth and creamy, served cold.",361,3.5,600,Out of Stock
+ITEM0026,Latte,Coffee,Large,Hot,"Large Latte, rich and strong, served hot.",445,3.8,442,Out of Stock
+ITEM0027,Affogato,Breakfast,Medium,Hot,"Medium Affogato, light and refreshing, served hot.",206,3.6,406,Available
+ITEM0028,Iced Mocha,Breakfast,Small,Hot,"Small Iced Mocha, sweet and aromatic, served hot.",83,3.3,120,Available
+ITEM0029,Americano,Coffee,Small,Cold,"Small Americano, chocolate flavored, served cold.",116,4.1,345,Out of Stock
+ITEM0030,Latte,Coffee,Large,Hot,"Large Latte, caramel flavored, served hot.",450,4.9,644,Out of Stock
+ITEM0031,Latte,Coffee,Medium,Cold,"Medium Latte, nutty and balanced, served cold.",177,3.4,501,Available
+ITEM0032,Macchiato,Coffee,Medium,Cold,"Medium Macchiato, mild and creamy, served cold.",107,4.4,160,Available
+ITEM0033,Macchiato,Coffee,Large,Cold,"Large Macchiato, smooth and creamy, served cold.",135,3.6,254,Out of Stock
+ITEM0034,Cappuccino,Coffee,Medium,Hot,"Medium Cappuccino, rich and strong, served hot.",222,4.0,137,Out of Stock
+ITEM0035,Hazelnut Coffee,Coffee,Large,Hot,"Large Hazelnut Coffee, light and refreshing, served hot.",105,4.4,613,Available
+ITEM0036,Americano,Coffee,Small,Hot,"Small Americano, sweet and aromatic, served hot.",288,4.1,278,Out of Stock
+ITEM0037,Affogato,Tea,Small,Cold,"Small Affogato, chocolate flavored, served cold.",81,5.0,331,Out of Stock
+ITEM0038,Mocha,Coffee,Medium,Cold,"Medium Mocha, caramel flavored, served cold.",159,3.5,282,Available
+ITEM0039,Iced Mocha,Beverage,Large,Hot,"Large Iced Mocha, nutty and balanced, served hot.",240,3.3,548,Available
+ITEM0040,Espresso,Coffee,Large,Hot,"Large Espresso, mild and creamy, served hot.",175,3.3,129,Available
+ITEM0041,Macchiato,Coffee,Small,Hot,"Small Macchiato, smooth and creamy, served hot.",376,4.3,143,Out of Stock
+ITEM0042,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, rich and strong, served cold.",213,3.6,381,Available
+ITEM0043,Mocha,Coffee,Medium,Hot,"Medium Mocha, light and refreshing, served hot.",423,4.4,528,Available
+ITEM0044,Affogato,Tea,Small,Cold,"Small Affogato, sweet and aromatic, served cold.",398,5.0,162,Available
+ITEM0045,Iced Latte,Coffee,Small,Cold,"Small Iced Latte, chocolate flavored, served cold.",147,4.9,130,Available
+ITEM0046,Flat White,Coffee,Medium,Hot,"Medium Flat White, caramel flavored, served hot.",304,4.7,369,Available
+ITEM0047,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, nutty and balanced, served cold.",419,3.4,197,Available
+ITEM0048,Americano,Coffee,Small,Hot,"Small Americano, mild and creamy, served hot.",219,3.7,275,Available
+ITEM0049,Latte,Coffee,Large,Cold,"Large Latte, smooth and creamy, served cold.",338,4.1,112,Available
+ITEM0050,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, rich and strong, served cold.",102,3.2,193,Available
+ITEM0051,Cappuccino,Coffee,Large,Cold,"Large Cappuccino, light and refreshing, served cold.",362,4.5,634,Available
+ITEM0052,Americano,Coffee,Small,Hot,"Small Americano, sweet and aromatic, served hot.",359,3.3,438,Available
+ITEM0053,Macchiato,Coffee,Small,Hot,"Small Macchiato, chocolate flavored, served hot.",237,3.9,100,Available
+ITEM0054,Latte,Coffee,Large,Hot,"Large Latte, caramel flavored, served hot.",421,3.4,633,Out of Stock
+ITEM0055,Iced Mocha,Beverage,Small,Hot,"Small Iced Mocha, nutty and balanced, served hot.",163,5.0,241,Out of Stock
+ITEM0056,Espresso,Coffee,Small,Cold,"Small Espresso, mild and creamy, served cold.",290,4.6,314,Available
+ITEM0057,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, smooth and creamy, served hot.",275,4.8,541,Available
+ITEM0058,Latte,Coffee,Medium,Cold,"Medium Latte, rich and strong, served cold.",236,4.7,293,Available
+ITEM0059,Espresso,Coffee,Large,Hot,"Large Espresso, light and refreshing, served hot.",284,3.8,131,Available
+ITEM0060,Flat White,Coffee,Large,Cold,"Large Flat White, sweet and aromatic, served cold.",427,5.0,609,Available
+ITEM0061,Espresso,Coffee,Small,Cold,"Small Espresso, chocolate flavored, served cold.",171,4.2,331,Available
+ITEM0062,Americano,Coffee,Large,Cold,"Large Americano, caramel flavored, served cold.",256,4.5,381,Out of Stock
+ITEM0063,Iced Mocha,Breakfast,Small,Cold,"Small Iced Mocha, nutty and balanced, served cold.",375,3.5,105,Out of Stock
+ITEM0064,Espresso,Coffee,Large,Hot,"Large Espresso, mild and creamy, served hot.",266,4.0,398,Available
+ITEM0065,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, smooth and creamy, served cold.",339,3.8,478,Available
+ITEM0066,Macchiato,Coffee,Large,Cold,"Large Macchiato, rich and strong, served cold.",363,3.4,490,Out of Stock
+ITEM0067,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, light and refreshing, served hot.",395,4.2,475,Available
+ITEM0068,Mocha,Coffee,Medium,Hot,"Medium Mocha, sweet and aromatic, served hot.",300,4.6,389,Out of Stock
+ITEM0069,Cold Coffee,Coffee,Medium,Hot,"Medium Cold Coffee, chocolate flavored, served hot.",341,4.1,233,Available
+ITEM0070,Mocha,Coffee,Large,Cold,"Large Mocha, caramel flavored, served cold.",127,4.7,300,Available
+ITEM0071,Latte,Coffee,Small,Hot,"Small Latte, nutty and balanced, served hot.",92,3.3,546,Available
+ITEM0072,Cold Coffee,Coffee,Medium,Hot,"Medium Cold Coffee, mild and creamy, served hot.",447,4.5,566,Out of Stock
+ITEM0073,Latte,Coffee,Small,Hot,"Small Latte, smooth and creamy, served hot.",134,4.6,284,Available
+ITEM0074,Hazelnut Coffee,Coffee,Large,Cold,"Large Hazelnut Coffee, rich and strong, served cold.",105,4.2,184,Out of Stock
+ITEM0075,Cappuccino,Coffee,Medium,Cold,"Medium Cappuccino, light and refreshing, served cold.",306,4.3,576,Out of Stock
+ITEM0076,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, sweet and aromatic, served cold.",161,4.5,546,Out of Stock
+ITEM0077,Mocha,Coffee,Small,Cold,"Small Mocha, chocolate flavored, served cold.",346,4.1,304,Available
+ITEM0078,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, caramel flavored, served cold.",200,3.7,387,Available
+ITEM0079,Cappuccino,Coffee,Small,Hot,"Small Cappuccino, nutty and balanced, served hot.",276,4.4,279,Available
+ITEM0080,Macchiato,Coffee,Medium,Cold,"Medium Macchiato, mild and creamy, served cold.",357,4.0,123,Available
+ITEM0081,Irish Cream Coffee,Coffee,Medium,Cold,"Medium Irish Cream Coffee, smooth and creamy, served cold.",379,4.9,80,Out of Stock
+ITEM0082,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, rich and strong, served cold.",232,4.6,489,Available
+ITEM0083,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, light and refreshing, served cold.",303,4.1,458,Available
+ITEM0084,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, sweet and aromatic, served cold.",450,3.5,538,Available
+ITEM0085,Iced Mocha,Breakfast,Small,Cold,"Small Iced Mocha, chocolate flavored, served cold.",383,4.2,87,Available
+ITEM0086,Vanilla Latte,Coffee,Medium,Hot,"Medium Vanilla Latte, caramel flavored, served hot.",316,3.5,326,Out of Stock
+ITEM0087,Flat White,Coffee,Small,Cold,"Small Flat White, nutty and balanced, served cold.",247,3.8,448,Available
+ITEM0088,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, mild and creamy, served cold.",121,4.0,612,Available
+ITEM0089,Flat White,Coffee,Small,Hot,"Small Flat White, smooth and creamy, served hot.",413,3.3,91,Available
+ITEM0090,Latte,Coffee,Small,Hot,"Small Latte, rich and strong, served hot.",202,3.4,177,Available
+ITEM0091,Cold Coffee,Coffee,Large,Cold,"Large Cold Coffee, light and refreshing, served cold.",268,3.5,177,Available
+ITEM0092,Mocha,Coffee,Small,Hot,"Small Mocha, sweet and aromatic, served hot.",239,4.2,444,Out of Stock
+ITEM0093,Caramel Latte,Coffee,Small,Hot,"Small Caramel Latte, chocolate flavored, served hot.",383,4.4,308,Available
+ITEM0094,Caramel Latte,Coffee,Medium,Hot,"Medium Caramel Latte, caramel flavored, served hot.",369,4.6,415,Out of Stock
+ITEM0095,Vanilla Latte,Coffee,Medium,Hot,"Medium Vanilla Latte, nutty and balanced, served hot.",339,4.4,72,Out of Stock
+ITEM0096,Irish Cream Coffee,Coffee,Medium,Hot,"Medium Irish Cream Coffee, mild and creamy, served hot.",301,4.9,530,Available
+ITEM0097,Macchiato,Coffee,Small,Cold,"Small Macchiato, smooth and creamy, served cold.",395,4.7,611,Out of Stock
+ITEM0098,Cold Coffee,Coffee,Medium,Cold,"Medium Cold Coffee, rich and strong, served cold.",245,4.7,148,Available
+ITEM0099,Affogato,Snack,Small,Cold,"Small Affogato, light and refreshing, served cold.",371,4.3,448,Available
+ITEM0100,Espresso,Coffee,Medium,Cold,"Medium Espresso, sweet and aromatic, served cold.",173,4.1,423,Available
+ITEM0101,Flat White,Coffee,Medium,Cold,"Medium Flat White, chocolate flavored, served cold.",364,3.2,255,Available
+ITEM0102,Latte,Coffee,Large,Cold,"Large Latte, caramel flavored, served cold.",330,4.2,306,Out of Stock
+ITEM0103,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, nutty and balanced, served cold.",309,4.6,155,Available
+ITEM0104,Latte,Coffee,Medium,Hot,"Medium Latte, mild and creamy, served hot.",236,4.4,437,Out of Stock
+ITEM0105,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, smooth and creamy, served cold.",297,5.0,623,Available
+ITEM0106,Flat White,Coffee,Large,Cold,"Large Flat White, rich and strong, served cold.",218,3.8,296,Available
+ITEM0107,Caramel Latte,Coffee,Small,Cold,"Small Caramel Latte, light and refreshing, served cold.",141,4.5,249,Available
+ITEM0108,Latte,Coffee,Large,Cold,"Large Latte, sweet and aromatic, served cold.",221,4.5,597,Available
+ITEM0109,Americano,Coffee,Small,Cold,"Small Americano, chocolate flavored, served cold.",196,3.8,369,Available
+ITEM0110,Caramel Latte,Coffee,Large,Hot,"Large Caramel Latte, caramel flavored, served hot.",220,3.3,115,Available
+ITEM0111,Caramel Latte,Coffee,Small,Cold,"Small Caramel Latte, nutty and balanced, served cold.",132,4.8,647,Available
+ITEM0112,Cold Coffee,Coffee,Medium,Cold,"Medium Cold Coffee, mild and creamy, served cold.",254,3.5,112,Available
+ITEM0113,Irish Cream Coffee,Coffee,Medium,Hot,"Medium Irish Cream Coffee, smooth and creamy, served hot.",113,3.9,135,Available
+ITEM0114,Cappuccino,Coffee,Small,Cold,"Small Cappuccino, rich and strong, served cold.",123,5.0,181,Out of Stock
+ITEM0115,Iced Mocha,Breakfast,Large,Hot,"Large Iced Mocha, light and refreshing, served hot.",347,3.9,513,Available
+ITEM0116,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, sweet and aromatic, served cold.",236,4.2,121,Available
+ITEM0117,Hazelnut Coffee,Coffee,Small,Hot,"Small Hazelnut Coffee, chocolate flavored, served hot.",215,4.4,220,Available
+ITEM0118,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, caramel flavored, served hot.",160,3.2,521,Out of Stock
+ITEM0119,Mocha,Coffee,Small,Hot,"Small Mocha, nutty and balanced, served hot.",227,4.5,524,Available
+ITEM0120,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, mild and creamy, served cold.",400,4.3,262,Out of Stock
+ITEM0121,Americano,Coffee,Large,Hot,"Large Americano, smooth and creamy, served hot.",411,3.5,332,Available
+ITEM0122,Americano,Coffee,Small,Hot,"Small Americano, rich and strong, served hot.",237,4.3,642,Available
+ITEM0123,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, light and refreshing, served cold.",432,3.7,472,Available
+ITEM0124,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, sweet and aromatic, served cold.",304,3.3,100,Out of Stock
+ITEM0125,Caramel Latte,Coffee,Medium,Cold,"Medium Caramel Latte, chocolate flavored, served cold.",93,3.4,649,Available
+ITEM0126,Hazelnut Coffee,Coffee,Large,Cold,"Large Hazelnut Coffee, caramel flavored, served cold.",375,3.3,239,Out of Stock
+ITEM0127,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, nutty and balanced, served cold.",222,3.5,506,Out of Stock
+ITEM0128,Americano,Coffee,Medium,Cold,"Medium Americano, mild and creamy, served cold.",289,3.8,167,Available
+ITEM0129,Flat White,Coffee,Medium,Cold,"Medium Flat White, smooth and creamy, served cold.",227,4.4,470,Available
+ITEM0130,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, rich and strong, served cold.",209,3.8,473,Available
+ITEM0131,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, light and refreshing, served cold.",291,3.3,590,Available
+ITEM0132,Iced Mocha,Snack,Large,Cold,"Large Iced Mocha, sweet and aromatic, served cold.",106,3.6,622,Available
+ITEM0133,Affogato,Sandwich,Medium,Cold,"Medium Affogato, chocolate flavored, served cold.",142,3.3,305,Available
+ITEM0134,Mocha,Coffee,Large,Hot,"Large Mocha, caramel flavored, served hot.",362,3.9,290,Available
+ITEM0135,Cold Coffee,Coffee,Small,Hot,"Small Cold Coffee, nutty and balanced, served hot.",335,4.9,358,Available
+ITEM0136,Macchiato,Coffee,Medium,Cold,"Medium Macchiato, mild and creamy, served cold.",204,4.0,208,Out of Stock
+ITEM0137,Latte,Coffee,Large,Hot,"Large Latte, smooth and creamy, served hot.",115,3.7,484,Available
+ITEM0138,Affogato,Breakfast,Medium,Hot,"Medium Affogato, rich and strong, served hot.",224,4.5,561,Available
+ITEM0139,Cold Coffee,Coffee,Large,Cold,"Large Cold Coffee, light and refreshing, served cold.",256,3.8,616,Out of Stock
+ITEM0140,Cold Coffee,Coffee,Medium,Hot,"Medium Cold Coffee, sweet and aromatic, served hot.",437,3.6,452,Available
+ITEM0141,Irish Cream Coffee,Coffee,Medium,Hot,"Medium Irish Cream Coffee, chocolate flavored, served hot.",242,4.5,450,Out of Stock
+ITEM0142,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, caramel flavored, served hot.",333,4.9,189,Available
+ITEM0143,Irish Cream Coffee,Coffee,Small,Cold,"Small Irish Cream Coffee, nutty and balanced, served cold.",131,4.1,527,Available
+ITEM0144,Caramel Latte,Coffee,Small,Cold,"Small Caramel Latte, mild and creamy, served cold.",415,4.9,136,Out of Stock
+ITEM0145,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, smooth and creamy, served cold.",399,4.4,142,Available
+ITEM0146,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, rich and strong, served cold.",242,4.3,559,Available
+ITEM0147,Iced Mocha,Tea,Small,Cold,"Small Iced Mocha, light and refreshing, served cold.",196,4.5,504,Available
+ITEM0148,Hazelnut Coffee,Coffee,Large,Hot,"Large Hazelnut Coffee, sweet and aromatic, served hot.",307,3.5,366,Available
+ITEM0149,Espresso,Coffee,Medium,Hot,"Medium Espresso, chocolate flavored, served hot.",230,3.8,501,Available
+ITEM0150,Latte,Coffee,Large,Cold,"Large Latte, caramel flavored, served cold.",369,4.4,244,Available
+ITEM0151,Cappuccino,Coffee,Small,Cold,"Small Cappuccino, nutty and balanced, served cold.",397,4.4,569,Available
+ITEM0152,Latte,Coffee,Medium,Cold,"Medium Latte, mild and creamy, served cold.",315,3.7,69,Out of Stock
+ITEM0153,Affogato,Sandwich,Large,Hot,"Large Affogato, smooth and creamy, served hot.",117,4.0,413,Available
+ITEM0154,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, rich and strong, served cold.",313,4.7,263,Out of Stock
+ITEM0155,Irish Cream Coffee,Coffee,Medium,Hot,"Medium Irish Cream Coffee, light and refreshing, served hot.",201,3.9,427,Available
+ITEM0156,Caramel Latte,Coffee,Medium,Hot,"Medium Caramel Latte, sweet and aromatic, served hot.",417,3.9,68,Available
+ITEM0157,Affogato,Breakfast,Large,Cold,"Large Affogato, chocolate flavored, served cold.",226,4.6,295,Available
+ITEM0158,Latte,Coffee,Large,Hot,"Large Latte, caramel flavored, served hot.",397,3.7,200,Available
+ITEM0159,Affogato,Beverage,Large,Hot,"Large Affogato, nutty and balanced, served hot.",238,4.6,94,Available
+ITEM0160,Caramel Latte,Coffee,Small,Hot,"Small Caramel Latte, mild and creamy, served hot.",231,3.8,485,Available
+ITEM0161,Latte,Coffee,Small,Cold,"Small Latte, smooth and creamy, served cold.",351,4.1,339,Available
+ITEM0162,Mocha,Coffee,Medium,Cold,"Medium Mocha, rich and strong, served cold.",253,4.6,539,Available
+ITEM0163,Cappuccino,Coffee,Small,Cold,"Small Cappuccino, light and refreshing, served cold.",365,3.9,464,Available
+ITEM0164,Mocha,Coffee,Large,Hot,"Large Mocha, sweet and aromatic, served hot.",312,3.9,328,Out of Stock
+ITEM0165,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, chocolate flavored, served cold.",135,4.4,542,Available
+ITEM0166,Iced Mocha,Breakfast,Medium,Hot,"Medium Iced Mocha, caramel flavored, served hot.",411,3.3,535,Available
+ITEM0167,Vanilla Latte,Coffee,Medium,Hot,"Medium Vanilla Latte, nutty and balanced, served hot.",151,3.3,98,Available
+ITEM0168,Cold Coffee,Coffee,Small,Hot,"Small Cold Coffee, mild and creamy, served hot.",200,4.8,198,Out of Stock
+ITEM0169,Cold Coffee,Coffee,Medium,Cold,"Medium Cold Coffee, smooth and creamy, served cold.",380,4.5,218,Out of Stock
+ITEM0170,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, rich and strong, served cold.",395,3.9,346,Available
+ITEM0171,Caramel Latte,Coffee,Medium,Hot,"Medium Caramel Latte, light and refreshing, served hot.",307,4.0,301,Available
+ITEM0172,Americano,Coffee,Large,Cold,"Large Americano, sweet and aromatic, served cold.",358,4.8,427,Available
+ITEM0173,Macchiato,Coffee,Medium,Hot,"Medium Macchiato, chocolate flavored, served hot.",142,4.9,525,Available
+ITEM0174,Vanilla Latte,Coffee,Small,Hot,"Small Vanilla Latte, caramel flavored, served hot.",105,4.6,309,Available
+ITEM0175,Hazelnut Coffee,Coffee,Large,Hot,"Large Hazelnut Coffee, nutty and balanced, served hot.",115,4.7,627,Available
+ITEM0176,Iced Mocha,Dessert,Small,Cold,"Small Iced Mocha, mild and creamy, served cold.",155,4.6,62,Available
+ITEM0177,Irish Cream Coffee,Coffee,Small,Hot,"Small Irish Cream Coffee, smooth and creamy, served hot.",356,3.7,238,Available
+ITEM0178,Vanilla Latte,Coffee,Small,Hot,"Small Vanilla Latte, rich and strong, served hot.",87,3.8,303,Available
+ITEM0179,Espresso,Coffee,Small,Cold,"Small Espresso, light and refreshing, served cold.",106,3.4,491,Available
+ITEM0180,Caramel Latte,Coffee,Small,Cold,"Small Caramel Latte, sweet and aromatic, served cold.",309,4.6,585,Available
+ITEM0181,Cold Coffee,Coffee,Large,Hot,"Large Cold Coffee, chocolate flavored, served hot.",394,3.3,593,Available
+ITEM0182,Cold Coffee,Coffee,Large,Hot,"Large Cold Coffee, caramel flavored, served hot.",111,5.0,471,Out of Stock
+ITEM0183,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, nutty and balanced, served cold.",444,4.8,135,Available
+ITEM0184,Flat White,Coffee,Large,Hot,"Large Flat White, mild and creamy, served hot.",113,3.4,621,Available
+ITEM0185,Macchiato,Coffee,Large,Cold,"Large Macchiato, smooth and creamy, served cold.",312,4.1,500,Available
+ITEM0186,Hazelnut Coffee,Coffee,Large,Hot,"Large Hazelnut Coffee, rich and strong, served hot.",415,4.4,624,Available
+ITEM0187,Macchiato,Coffee,Medium,Hot,"Medium Macchiato, light and refreshing, served hot.",291,3.8,524,Out of Stock
+ITEM0188,Macchiato,Coffee,Large,Hot,"Large Macchiato, sweet and aromatic, served hot.",240,4.0,321,Available
+ITEM0189,Cappuccino,Coffee,Large,Cold,"Large Cappuccino, chocolate flavored, served cold.",114,3.4,147,Available
+ITEM0190,Macchiato,Coffee,Small,Cold,"Small Macchiato, caramel flavored, served cold.",146,4.2,635,Available
+ITEM0191,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, nutty and balanced, served cold.",261,4.8,493,Available
+ITEM0192,Mocha,Coffee,Large,Cold,"Large Mocha, mild and creamy, served cold.",260,3.4,579,Available
+ITEM0193,Cappuccino,Coffee,Large,Cold,"Large Cappuccino, smooth and creamy, served cold.",194,4.7,418,Available
+ITEM0194,Americano,Coffee,Medium,Hot,"Medium Americano, rich and strong, served hot.",299,4.7,630,Available
+ITEM0195,Iced Mocha,Beverage,Large,Cold,"Large Iced Mocha, light and refreshing, served cold.",94,3.5,376,Available
+ITEM0196,Flat White,Coffee,Small,Hot,"Small Flat White, sweet and aromatic, served hot.",153,4.2,470,Available
+ITEM0197,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, chocolate flavored, served hot.",126,4.5,280,Out of Stock
+ITEM0198,Macchiato,Coffee,Medium,Cold,"Medium Macchiato, caramel flavored, served cold.",160,3.9,392,Available
+ITEM0199,Affogato,Tea,Small,Hot,"Small Affogato, nutty and balanced, served hot.",396,3.3,143,Available
+ITEM0200,Cold Coffee,Coffee,Large,Cold,"Large Cold Coffee, mild and creamy, served cold.",328,4.3,484,Available
+ITEM0201,Latte,Coffee,Large,Hot,"Large Latte, smooth and creamy, served hot.",256,4.0,350,Out of Stock
+ITEM0202,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, rich and strong, served cold.",103,3.6,116,Available
+ITEM0203,Latte,Coffee,Medium,Hot,"Medium Latte, light and refreshing, served hot.",150,4.6,356,Available
+ITEM0204,Americano,Coffee,Small,Cold,"Small Americano, sweet and aromatic, served cold.",300,3.5,449,Available
+ITEM0205,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, chocolate flavored, served cold.",116,3.9,103,Out of Stock
+ITEM0206,Espresso,Coffee,Medium,Hot,"Medium Espresso, caramel flavored, served hot.",240,4.2,647,Out of Stock
+ITEM0207,Caramel Latte,Coffee,Large,Cold,"Large Caramel Latte, nutty and balanced, served cold.",228,3.4,81,Available
+ITEM0208,Cappuccino,Coffee,Large,Cold,"Large Cappuccino, mild and creamy, served cold.",433,4.9,150,Out of Stock
+ITEM0209,Irish Cream Coffee,Coffee,Small,Hot,"Small Irish Cream Coffee, smooth and creamy, served hot.",303,4.3,596,Available
+ITEM0210,Macchiato,Coffee,Medium,Cold,"Medium Macchiato, rich and strong, served cold.",193,3.8,232,Available
+ITEM0211,Iced Latte,Coffee,Large,Hot,"Large Iced Latte, light and refreshing, served hot.",351,4.1,417,Available
+ITEM0212,Caramel Latte,Coffee,Large,Hot,"Large Caramel Latte, sweet and aromatic, served hot.",200,3.4,322,Available
+ITEM0213,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, chocolate flavored, served hot.",415,3.3,565,Out of Stock
+ITEM0214,Hazelnut Coffee,Coffee,Large,Cold,"Large Hazelnut Coffee, caramel flavored, served cold.",428,4.9,638,Available
+ITEM0215,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, nutty and balanced, served cold.",157,4.0,540,Out of Stock
+ITEM0216,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, mild and creamy, served cold.",382,3.3,579,Available
+ITEM0217,Mocha,Coffee,Medium,Cold,"Medium Mocha, smooth and creamy, served cold.",99,3.3,353,Available
+ITEM0218,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, rich and strong, served cold.",316,4.2,102,Out of Stock
+ITEM0219,Affogato,Breakfast,Large,Hot,"Large Affogato, light and refreshing, served hot.",244,4.3,573,Available
+ITEM0220,Espresso,Coffee,Medium,Hot,"Medium Espresso, sweet and aromatic, served hot.",255,5.0,146,Available
+ITEM0221,Espresso,Coffee,Small,Cold,"Small Espresso, chocolate flavored, served cold.",304,4.1,222,Available
+ITEM0222,Flat White,Coffee,Medium,Cold,"Medium Flat White, caramel flavored, served cold.",289,4.6,113,Available
+ITEM0223,Americano,Coffee,Medium,Hot,"Medium Americano, nutty and balanced, served hot.",365,4.4,350,Available
+ITEM0224,Caramel Latte,Coffee,Large,Hot,"Large Caramel Latte, mild and creamy, served hot.",250,3.3,204,Available
+ITEM0225,Mocha,Coffee,Large,Cold,"Large Mocha, smooth and creamy, served cold.",146,4.3,146,Available
+ITEM0226,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, rich and strong, served cold.",145,4.4,599,Available
+ITEM0227,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, light and refreshing, served cold.",340,3.9,431,Available
+ITEM0228,Cappuccino,Coffee,Small,Cold,"Small Cappuccino, sweet and aromatic, served cold.",328,3.5,200,Available
+ITEM0229,Americano,Coffee,Medium,Hot,"Medium Americano, chocolate flavored, served hot.",339,4.6,599,Available
+ITEM0230,Vanilla Latte,Coffee,Medium,Hot,"Medium Vanilla Latte, caramel flavored, served hot.",385,3.9,226,Available
+ITEM0231,Irish Cream Coffee,Coffee,Large,Hot,"Large Irish Cream Coffee, nutty and balanced, served hot.",449,4.0,480,Available
+ITEM0232,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, mild and creamy, served hot.",307,4.3,519,Available
+ITEM0233,Iced Latte,Coffee,Small,Cold,"Small Iced Latte, smooth and creamy, served cold.",320,4.8,258,Available
+ITEM0234,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, rich and strong, served cold.",316,4.6,451,Out of Stock
+ITEM0235,Cappuccino,Coffee,Small,Hot,"Small Cappuccino, light and refreshing, served hot.",208,3.3,552,Available
+ITEM0236,Iced Latte,Coffee,Small,Hot,"Small Iced Latte, sweet and aromatic, served hot.",225,3.4,224,Available
+ITEM0237,Cold Coffee,Coffee,Large,Hot,"Large Cold Coffee, chocolate flavored, served hot.",303,3.4,287,Out of Stock
+ITEM0238,Affogato,Sandwich,Small,Cold,"Small Affogato, caramel flavored, served cold.",107,3.9,442,Available
+ITEM0239,Macchiato,Coffee,Small,Cold,"Small Macchiato, nutty and balanced, served cold.",194,3.3,161,Available
+ITEM0240,Hazelnut Coffee,Coffee,Small,Hot,"Small Hazelnut Coffee, mild and creamy, served hot.",99,3.7,543,Available
+ITEM0241,Hazelnut Coffee,Coffee,Large,Cold,"Large Hazelnut Coffee, smooth and creamy, served cold.",309,4.3,141,Available
+ITEM0242,Mocha,Coffee,Small,Hot,"Small Mocha, rich and strong, served hot.",360,4.9,600,Out of Stock
+ITEM0243,Americano,Coffee,Medium,Hot,"Medium Americano, light and refreshing, served hot.",234,3.4,304,Out of Stock
+ITEM0244,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, sweet and aromatic, served cold.",112,3.4,571,Available
+ITEM0245,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, chocolate flavored, served hot.",447,3.5,499,Available
+ITEM0246,Iced Mocha,Sandwich,Small,Cold,"Small Iced Mocha, caramel flavored, served cold.",175,4.4,147,Available
+ITEM0247,Americano,Coffee,Large,Hot,"Large Americano, nutty and balanced, served hot.",279,4.8,104,Out of Stock
+ITEM0248,Flat White,Coffee,Medium,Hot,"Medium Flat White, mild and creamy, served hot.",262,4.6,413,Available
+ITEM0249,Caramel Latte,Coffee,Large,Hot,"Large Caramel Latte, smooth and creamy, served hot.",377,4.5,400,Available
+ITEM0250,Espresso,Coffee,Medium,Cold,"Medium Espresso, rich and strong, served cold.",409,3.5,535,Out of Stock
+ITEM0251,Vanilla Latte,Coffee,Small,Hot,"Small Vanilla Latte, light and refreshing, served hot.",112,4.5,528,Available
+ITEM0252,Mocha,Coffee,Small,Hot,"Small Mocha, sweet and aromatic, served hot.",182,4.8,383,Available
+ITEM0253,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, chocolate flavored, served cold.",209,3.3,255,Available
+ITEM0254,Flat White,Coffee,Small,Cold,"Small Flat White, caramel flavored, served cold.",219,3.4,436,Out of Stock
+ITEM0255,Affogato,Snack,Large,Cold,"Large Affogato, nutty and balanced, served cold.",277,3.8,251,Out of Stock
+ITEM0256,Caramel Latte,Coffee,Medium,Cold,"Medium Caramel Latte, mild and creamy, served cold.",345,3.7,144,Out of Stock
+ITEM0257,Americano,Coffee,Medium,Hot,"Medium Americano, smooth and creamy, served hot.",359,3.7,165,Available
+ITEM0258,Flat White,Coffee,Large,Cold,"Large Flat White, rich and strong, served cold.",236,4.0,496,Available
+ITEM0259,Caramel Latte,Coffee,Medium,Cold,"Medium Caramel Latte, light and refreshing, served cold.",308,3.3,421,Out of Stock
+ITEM0260,Mocha,Coffee,Large,Hot,"Large Mocha, sweet and aromatic, served hot.",118,4.4,475,Available
+ITEM0261,Iced Latte,Coffee,Large,Hot,"Large Iced Latte, chocolate flavored, served hot.",95,3.5,508,Available
+ITEM0262,Cappuccino,Coffee,Small,Hot,"Small Cappuccino, caramel flavored, served hot.",410,3.9,452,Available
+ITEM0263,Iced Mocha,Dessert,Large,Cold,"Large Iced Mocha, nutty and balanced, served cold.",269,3.9,138,Available
+ITEM0264,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, mild and creamy, served cold.",240,4.4,315,Available
+ITEM0265,Espresso,Coffee,Large,Hot,"Large Espresso, smooth and creamy, served hot.",335,4.1,635,Available
+ITEM0266,Mocha,Coffee,Medium,Cold,"Medium Mocha, rich and strong, served cold.",189,5.0,352,Out of Stock
+ITEM0267,Latte,Coffee,Small,Hot,"Small Latte, light and refreshing, served hot.",117,4.0,515,Available
+ITEM0268,Hazelnut Coffee,Coffee,Large,Cold,"Large Hazelnut Coffee, sweet and aromatic, served cold.",421,3.8,126,Available
+ITEM0269,Affogato,Sandwich,Small,Hot,"Small Affogato, chocolate flavored, served hot.",265,4.1,184,Available
+ITEM0270,Hazelnut Coffee,Coffee,Small,Hot,"Small Hazelnut Coffee, caramel flavored, served hot.",332,3.2,627,Available
+ITEM0271,Cold Coffee,Coffee,Large,Hot,"Large Cold Coffee, nutty and balanced, served hot.",393,4.8,127,Available
+ITEM0272,Macchiato,Coffee,Large,Cold,"Large Macchiato, mild and creamy, served cold.",349,3.9,479,Available
+ITEM0273,Cappuccino,Coffee,Medium,Hot,"Medium Cappuccino, smooth and creamy, served hot.",310,4.0,589,Available
+ITEM0274,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, rich and strong, served hot.",146,4.0,116,Available
+ITEM0275,Iced Latte,Coffee,Small,Cold,"Small Iced Latte, light and refreshing, served cold.",164,3.5,290,Available
+ITEM0276,Iced Latte,Coffee,Medium,Hot,"Medium Iced Latte, sweet and aromatic, served hot.",208,3.6,624,Available
+ITEM0277,Cappuccino,Coffee,Large,Cold,"Large Cappuccino, chocolate flavored, served cold.",394,4.2,574,Available
+ITEM0278,Iced Mocha,Breakfast,Small,Hot,"Small Iced Mocha, caramel flavored, served hot.",417,4.3,405,Available
+ITEM0279,Irish Cream Coffee,Coffee,Small,Hot,"Small Irish Cream Coffee, nutty and balanced, served hot.",103,4.9,650,Available
+ITEM0280,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, mild and creamy, served cold.",396,4.4,569,Available
+ITEM0281,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, smooth and creamy, served cold.",205,4.6,475,Available
+ITEM0282,Cold Coffee,Coffee,Small,Hot,"Small Cold Coffee, rich and strong, served hot.",160,4.0,555,Out of Stock
+ITEM0283,Latte,Coffee,Medium,Hot,"Medium Latte, light and refreshing, served hot.",240,4.8,386,Available
+ITEM0284,Macchiato,Coffee,Small,Cold,"Small Macchiato, sweet and aromatic, served cold.",343,4.2,386,Available
+ITEM0285,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, chocolate flavored, served cold.",310,3.6,159,Available
+ITEM0286,Mocha,Coffee,Medium,Cold,"Medium Mocha, caramel flavored, served cold.",207,4.9,223,Available
+ITEM0287,Affogato,Breakfast,Large,Cold,"Large Affogato, nutty and balanced, served cold.",177,4.6,570,Out of Stock
+ITEM0288,Cold Coffee,Coffee,Medium,Cold,"Medium Cold Coffee, mild and creamy, served cold.",91,3.4,462,Out of Stock
+ITEM0289,Latte,Coffee,Small,Cold,"Small Latte, smooth and creamy, served cold.",104,3.3,566,Out of Stock
+ITEM0290,Mocha,Coffee,Large,Hot,"Large Mocha, rich and strong, served hot.",135,4.0,330,Available
+ITEM0291,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, light and refreshing, served cold.",103,3.9,643,Available
+ITEM0292,Flat White,Coffee,Large,Cold,"Large Flat White, sweet and aromatic, served cold.",117,3.9,521,Available
+ITEM0293,Irish Cream Coffee,Coffee,Large,Hot,"Large Irish Cream Coffee, chocolate flavored, served hot.",145,5.0,463,Available
+ITEM0294,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, caramel flavored, served cold.",153,3.6,581,Out of Stock
+ITEM0295,Iced Latte,Coffee,Small,Hot,"Small Iced Latte, nutty and balanced, served hot.",99,3.4,401,Out of Stock
+ITEM0296,Iced Latte,Coffee,Medium,Hot,"Medium Iced Latte, mild and creamy, served hot.",390,4.8,203,Available
+ITEM0297,Affogato,Breakfast,Medium,Hot,"Medium Affogato, smooth and creamy, served hot.",281,5.0,366,Available
+ITEM0298,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, rich and strong, served cold.",442,4.2,546,Available
+ITEM0299,Flat White,Coffee,Medium,Hot,"Medium Flat White, light and refreshing, served hot.",293,4.3,87,Out of Stock
+ITEM0300,Mocha,Coffee,Large,Hot,"Large Mocha, sweet and aromatic, served hot.",449,3.3,551,Available
+ITEM0301,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, chocolate flavored, served cold.",155,4.7,308,Available
+ITEM0302,Iced Mocha,Beverage,Small,Hot,"Small Iced Mocha, caramel flavored, served hot.",89,4.0,488,Available
+ITEM0303,Macchiato,Coffee,Large,Hot,"Large Macchiato, nutty and balanced, served hot.",290,4.1,542,Available
+ITEM0304,Caramel Latte,Coffee,Small,Hot,"Small Caramel Latte, mild and creamy, served hot.",367,3.8,549,Out of Stock
+ITEM0305,Flat White,Coffee,Small,Cold,"Small Flat White, smooth and creamy, served cold.",352,3.8,422,Available
+ITEM0306,Iced Mocha,Snack,Small,Hot,"Small Iced Mocha, rich and strong, served hot.",222,4.2,290,Available
+ITEM0307,Hazelnut Coffee,Coffee,Medium,Hot,"Medium Hazelnut Coffee, light and refreshing, served hot.",433,4.5,384,Out of Stock
+ITEM0308,Flat White,Coffee,Large,Cold,"Large Flat White, sweet and aromatic, served cold.",227,3.4,616,Out of Stock
+ITEM0309,Affogato,Snack,Medium,Hot,"Medium Affogato, chocolate flavored, served hot.",228,3.3,140,Available
+ITEM0310,Affogato,Snack,Large,Cold,"Large Affogato, caramel flavored, served cold.",325,3.6,611,Available
+ITEM0311,Affogato,Breakfast,Large,Cold,"Large Affogato, nutty and balanced, served cold.",150,3.4,305,Available
+ITEM0312,Espresso,Coffee,Large,Hot,"Large Espresso, mild and creamy, served hot.",406,3.6,162,Out of Stock
+ITEM0313,Flat White,Coffee,Large,Cold,"Large Flat White, smooth and creamy, served cold.",131,4.4,200,Available
+ITEM0314,Iced Latte,Coffee,Small,Cold,"Small Iced Latte, rich and strong, served cold.",414,4.9,547,Out of Stock
+ITEM0315,Vanilla Latte,Coffee,Small,Cold,"Small Vanilla Latte, light and refreshing, served cold.",244,3.7,120,Available
+ITEM0316,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, sweet and aromatic, served hot.",353,4.5,98,Available
+ITEM0317,Macchiato,Coffee,Small,Hot,"Small Macchiato, chocolate flavored, served hot.",283,4.6,250,Available
+ITEM0318,Affogato,Tea,Small,Cold,"Small Affogato, caramel flavored, served cold.",370,4.3,403,Available
+ITEM0319,Cold Coffee,Coffee,Large,Cold,"Large Cold Coffee, nutty and balanced, served cold.",148,4.7,539,Available
+ITEM0320,Latte,Coffee,Small,Cold,"Small Latte, mild and creamy, served cold.",163,4.5,323,Available
+ITEM0321,Espresso,Coffee,Large,Cold,"Large Espresso, smooth and creamy, served cold.",231,4.2,257,Available
+ITEM0322,Iced Mocha,Beverage,Medium,Cold,"Medium Iced Mocha, rich and strong, served cold.",343,3.8,470,Available
+ITEM0323,Cappuccino,Coffee,Small,Cold,"Small Cappuccino, light and refreshing, served cold.",245,4.9,66,Available
+ITEM0324,Macchiato,Coffee,Small,Cold,"Small Macchiato, sweet and aromatic, served cold.",216,4.9,369,Available
+ITEM0325,Mocha,Coffee,Large,Cold,"Large Mocha, chocolate flavored, served cold.",434,3.6,181,Out of Stock
+ITEM0326,Mocha,Coffee,Small,Cold,"Small Mocha, caramel flavored, served cold.",431,4.1,378,Available
+ITEM0327,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, nutty and balanced, served cold.",394,3.6,196,Out of Stock
+ITEM0328,Cappuccino,Coffee,Medium,Cold,"Medium Cappuccino, mild and creamy, served cold.",292,4.5,542,Available
+ITEM0329,Hazelnut Coffee,Coffee,Small,Hot,"Small Hazelnut Coffee, smooth and creamy, served hot.",349,4.0,430,Available
+ITEM0330,Affogato,Breakfast,Small,Hot,"Small Affogato, rich and strong, served hot.",360,4.8,267,Available
+ITEM0331,Cappuccino,Coffee,Medium,Cold,"Medium Cappuccino, light and refreshing, served cold.",139,4.4,560,Available
+ITEM0332,Affogato,Breakfast,Medium,Hot,"Medium Affogato, sweet and aromatic, served hot.",312,3.4,485,Out of Stock
+ITEM0333,Iced Mocha,Tea,Large,Cold,"Large Iced Mocha, chocolate flavored, served cold.",424,4.7,82,Out of Stock
+ITEM0334,Mocha,Coffee,Small,Hot,"Small Mocha, caramel flavored, served hot.",376,3.3,493,Available
+ITEM0335,Caramel Latte,Coffee,Small,Hot,"Small Caramel Latte, nutty and balanced, served hot.",115,5.0,543,Available
+ITEM0336,Mocha,Coffee,Medium,Hot,"Medium Mocha, mild and creamy, served hot.",149,4.6,490,Available
+ITEM0337,Affogato,Snack,Medium,Cold,"Medium Affogato, smooth and creamy, served cold.",272,3.3,612,Available
+ITEM0338,Vanilla Latte,Coffee,Medium,Hot,"Medium Vanilla Latte, rich and strong, served hot.",171,5.0,462,Available
+ITEM0339,Caramel Latte,Coffee,Small,Hot,"Small Caramel Latte, light and refreshing, served hot.",91,5.0,534,Out of Stock
+ITEM0340,Iced Latte,Coffee,Medium,Hot,"Medium Iced Latte, sweet and aromatic, served hot.",206,4.0,218,Available
+ITEM0341,Latte,Coffee,Large,Hot,"Large Latte, chocolate flavored, served hot.",96,4.7,489,Available
+ITEM0342,Latte,Coffee,Small,Hot,"Small Latte, caramel flavored, served hot.",131,4.3,517,Available
+ITEM0343,Latte,Coffee,Large,Hot,"Large Latte, nutty and balanced, served hot.",285,4.0,612,Available
+ITEM0344,Hazelnut Coffee,Coffee,Small,Hot,"Small Hazelnut Coffee, mild and creamy, served hot.",337,5.0,299,Available
+ITEM0345,Iced Mocha,Breakfast,Large,Cold,"Large Iced Mocha, smooth and creamy, served cold.",201,3.7,206,Available
+ITEM0346,Macchiato,Coffee,Medium,Cold,"Medium Macchiato, rich and strong, served cold.",111,4.2,239,Out of Stock
+ITEM0347,Iced Latte,Coffee,Medium,Hot,"Medium Iced Latte, light and refreshing, served hot.",256,4.9,450,Available
+ITEM0348,Caramel Latte,Coffee,Medium,Cold,"Medium Caramel Latte, sweet and aromatic, served cold.",156,3.7,248,Out of Stock
+ITEM0349,Latte,Coffee,Small,Cold,"Small Latte, chocolate flavored, served cold.",442,3.5,534,Available
+ITEM0350,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, caramel flavored, served cold.",365,4.2,457,Available
+ITEM0351,Mocha,Coffee,Small,Cold,"Small Mocha, nutty and balanced, served cold.",411,3.3,520,Available
+ITEM0352,Americano,Coffee,Large,Hot,"Large Americano, mild and creamy, served hot.",106,3.7,100,Available
+ITEM0353,Latte,Coffee,Large,Hot,"Large Latte, smooth and creamy, served hot.",325,3.6,400,Available
+ITEM0354,Affogato,Tea,Small,Hot,"Small Affogato, rich and strong, served hot.",140,4.5,550,Available
+ITEM0355,Caramel Latte,Coffee,Large,Hot,"Large Caramel Latte, light and refreshing, served hot.",283,4.8,625,Available
+ITEM0356,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, sweet and aromatic, served cold.",318,4.2,427,Available
+ITEM0357,Mocha,Coffee,Medium,Cold,"Medium Mocha, chocolate flavored, served cold.",318,3.4,540,Available
+ITEM0358,Affogato,Dessert,Medium,Cold,"Medium Affogato, caramel flavored, served cold.",291,3.3,286,Available
+ITEM0359,Espresso,Coffee,Medium,Cold,"Medium Espresso, nutty and balanced, served cold.",231,3.5,397,Available
+ITEM0360,Macchiato,Coffee,Large,Hot,"Large Macchiato, mild and creamy, served hot.",335,4.2,405,Available
+ITEM0361,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, smooth and creamy, served cold.",315,3.5,420,Available
+ITEM0362,Cappuccino,Coffee,Large,Cold,"Large Cappuccino, rich and strong, served cold.",174,4.9,615,Available
+ITEM0363,Iced Latte,Coffee,Small,Hot,"Small Iced Latte, light and refreshing, served hot.",422,3.3,66,Out of Stock
+ITEM0364,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, sweet and aromatic, served hot.",114,4.5,69,Available
+ITEM0365,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, chocolate flavored, served cold.",110,4.3,554,Out of Stock
+ITEM0366,Espresso,Coffee,Small,Cold,"Small Espresso, caramel flavored, served cold.",86,3.2,341,Available
+ITEM0367,Espresso,Coffee,Large,Cold,"Large Espresso, nutty and balanced, served cold.",171,3.4,158,Available
+ITEM0368,Latte,Coffee,Small,Cold,"Small Latte, mild and creamy, served cold.",261,3.7,466,Available
+ITEM0369,Flat White,Coffee,Medium,Cold,"Medium Flat White, smooth and creamy, served cold.",369,3.6,291,Available
+ITEM0370,Vanilla Latte,Coffee,Small,Hot,"Small Vanilla Latte, rich and strong, served hot.",127,3.9,446,Out of Stock
+ITEM0371,Espresso,Coffee,Large,Hot,"Large Espresso, light and refreshing, served hot.",439,3.5,571,Out of Stock
+ITEM0372,Vanilla Latte,Coffee,Medium,Hot,"Medium Vanilla Latte, sweet and aromatic, served hot.",350,4.9,295,Available
+ITEM0373,Affogato,Beverage,Large,Cold,"Large Affogato, chocolate flavored, served cold.",218,3.3,136,Available
+ITEM0374,Affogato,Breakfast,Large,Hot,"Large Affogato, caramel flavored, served hot.",171,4.9,382,Available
+ITEM0375,Latte,Coffee,Large,Hot,"Large Latte, nutty and balanced, served hot.",444,4.7,138,Available
+ITEM0376,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, mild and creamy, served hot.",370,4.7,458,Available
+ITEM0377,Macchiato,Coffee,Large,Hot,"Large Macchiato, smooth and creamy, served hot.",432,4.5,572,Available
+ITEM0378,Espresso,Coffee,Small,Cold,"Small Espresso, rich and strong, served cold.",198,4.7,408,Out of Stock
+ITEM0379,Hazelnut Coffee,Coffee,Medium,Hot,"Medium Hazelnut Coffee, light and refreshing, served hot.",404,3.7,521,Out of Stock
+ITEM0380,Latte,Coffee,Medium,Cold,"Medium Latte, sweet and aromatic, served cold.",301,3.5,449,Available
+ITEM0381,Hazelnut Coffee,Coffee,Large,Cold,"Large Hazelnut Coffee, chocolate flavored, served cold.",206,4.5,144,Available
+ITEM0382,Cappuccino,Coffee,Medium,Hot,"Medium Cappuccino, caramel flavored, served hot.",279,3.8,169,Available
+ITEM0383,Espresso,Coffee,Medium,Cold,"Medium Espresso, nutty and balanced, served cold.",264,4.6,164,Available
+ITEM0384,Americano,Coffee,Small,Cold,"Small Americano, mild and creamy, served cold.",309,4.2,584,Out of Stock
+ITEM0385,Americano,Coffee,Small,Hot,"Small Americano, smooth and creamy, served hot.",261,4.2,392,Out of Stock
+ITEM0386,Espresso,Coffee,Medium,Cold,"Medium Espresso, rich and strong, served cold.",278,4.6,632,Available
+ITEM0387,Iced Mocha,Breakfast,Small,Cold,"Small Iced Mocha, light and refreshing, served cold.",166,3.4,368,Available
+ITEM0388,Cold Coffee,Coffee,Small,Hot,"Small Cold Coffee, sweet and aromatic, served hot.",165,4.0,491,Available
+ITEM0389,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, chocolate flavored, served cold.",208,4.9,567,Available
+ITEM0390,Cold Coffee,Coffee,Small,Hot,"Small Cold Coffee, caramel flavored, served hot.",235,3.2,465,Available
+ITEM0391,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, nutty and balanced, served cold.",248,4.0,500,Available
+ITEM0392,Mocha,Coffee,Medium,Hot,"Medium Mocha, mild and creamy, served hot.",325,3.8,467,Available
+ITEM0393,Mocha,Coffee,Large,Cold,"Large Mocha, smooth and creamy, served cold.",374,4.6,393,Out of Stock
+ITEM0394,Mocha,Coffee,Medium,Cold,"Medium Mocha, rich and strong, served cold.",138,4.9,264,Available
+ITEM0395,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, light and refreshing, served hot.",316,4.9,274,Out of Stock
+ITEM0396,Hazelnut Coffee,Coffee,Medium,Hot,"Medium Hazelnut Coffee, sweet and aromatic, served hot.",289,4.4,202,Available
+ITEM0397,Latte,Coffee,Medium,Hot,"Medium Latte, chocolate flavored, served hot.",446,4.0,446,Available
+ITEM0398,Cold Coffee,Coffee,Large,Cold,"Large Cold Coffee, caramel flavored, served cold.",378,3.9,578,Out of Stock
+ITEM0399,Iced Latte,Coffee,Small,Cold,"Small Iced Latte, nutty and balanced, served cold.",439,4.8,609,Available
+ITEM0400,Americano,Coffee,Small,Cold,"Small Americano, mild and creamy, served cold.",165,4.4,105,Out of Stock
+ITEM0401,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, smooth and creamy, served cold.",134,3.2,324,Available
+ITEM0402,Iced Latte,Coffee,Large,Hot,"Large Iced Latte, rich and strong, served hot.",308,3.9,534,Available
+ITEM0403,Flat White,Coffee,Small,Cold,"Small Flat White, light and refreshing, served cold.",133,3.7,147,Available
+ITEM0404,Irish Cream Coffee,Coffee,Large,Hot,"Large Irish Cream Coffee, sweet and aromatic, served hot.",258,3.8,526,Available
+ITEM0405,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, chocolate flavored, served cold.",323,3.4,523,Available
+ITEM0406,Americano,Coffee,Medium,Hot,"Medium Americano, caramel flavored, served hot.",443,3.4,411,Available
+ITEM0407,Vanilla Latte,Coffee,Small,Hot,"Small Vanilla Latte, nutty and balanced, served hot.",344,3.5,223,Available
+ITEM0408,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, mild and creamy, served cold.",198,4.6,248,Available
+ITEM0409,Vanilla Latte,Coffee,Large,Cold,"Large Vanilla Latte, smooth and creamy, served cold.",282,3.3,262,Out of Stock
+ITEM0410,Iced Mocha,Snack,Medium,Hot,"Medium Iced Mocha, rich and strong, served hot.",440,3.6,345,Available
+ITEM0411,Iced Mocha,Tea,Large,Hot,"Large Iced Mocha, light and refreshing, served hot.",267,3.8,528,Available
+ITEM0412,Mocha,Coffee,Large,Cold,"Large Mocha, sweet and aromatic, served cold.",350,4.9,380,Out of Stock
+ITEM0413,Iced Mocha,Snack,Large,Hot,"Large Iced Mocha, chocolate flavored, served hot.",258,3.8,528,Available
+ITEM0414,Irish Cream Coffee,Coffee,Large,Cold,"Large Irish Cream Coffee, caramel flavored, served cold.",394,4.3,197,Available
+ITEM0415,Americano,Coffee,Small,Cold,"Small Americano, nutty and balanced, served cold.",139,3.5,204,Out of Stock
+ITEM0416,Macchiato,Coffee,Large,Hot,"Large Macchiato, mild and creamy, served hot.",374,3.9,250,Out of Stock
+ITEM0417,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, smooth and creamy, served hot.",364,3.5,355,Available
+ITEM0418,Cappuccino,Coffee,Medium,Cold,"Medium Cappuccino, rich and strong, served cold.",397,3.3,427,Available
+ITEM0419,Cold Coffee,Coffee,Small,Hot,"Small Cold Coffee, light and refreshing, served hot.",276,4.9,577,Out of Stock
+ITEM0420,Macchiato,Coffee,Large,Cold,"Large Macchiato, sweet and aromatic, served cold.",292,4.5,514,Out of Stock
+ITEM0421,Cappuccino,Coffee,Small,Hot,"Small Cappuccino, chocolate flavored, served hot.",192,3.7,341,Available
+ITEM0422,Iced Latte,Coffee,Medium,Hot,"Medium Iced Latte, caramel flavored, served hot.",314,4.2,567,Available
+ITEM0423,Iced Mocha,Tea,Medium,Cold,"Medium Iced Mocha, nutty and balanced, served cold.",357,4.7,102,Out of Stock
+ITEM0424,Iced Latte,Coffee,Small,Cold,"Small Iced Latte, mild and creamy, served cold.",132,4.5,313,Available
+ITEM0425,Irish Cream Coffee,Coffee,Small,Cold,"Small Irish Cream Coffee, smooth and creamy, served cold.",214,3.8,149,Out of Stock
+ITEM0426,Irish Cream Coffee,Coffee,Small,Hot,"Small Irish Cream Coffee, rich and strong, served hot.",187,4.7,419,Out of Stock
+ITEM0427,Cappuccino,Coffee,Large,Hot,"Large Cappuccino, light and refreshing, served hot.",185,4.7,120,Available
+ITEM0428,Iced Latte,Coffee,Medium,Hot,"Medium Iced Latte, sweet and aromatic, served hot.",245,5.0,359,Available
+ITEM0429,Iced Mocha,Sandwich,Large,Hot,"Large Iced Mocha, chocolate flavored, served hot.",149,4.9,481,Available
+ITEM0430,Mocha,Coffee,Large,Hot,"Large Mocha, caramel flavored, served hot.",439,4.8,315,Available
+ITEM0431,Caramel Latte,Coffee,Medium,Hot,"Medium Caramel Latte, nutty and balanced, served hot.",426,3.9,205,Available
+ITEM0432,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, mild and creamy, served cold.",311,3.3,155,Out of Stock
+ITEM0433,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, smooth and creamy, served cold.",435,4.9,437,Out of Stock
+ITEM0434,Cold Coffee,Coffee,Medium,Hot,"Medium Cold Coffee, rich and strong, served hot.",127,4.5,529,Available
+ITEM0435,Irish Cream Coffee,Coffee,Small,Cold,"Small Irish Cream Coffee, light and refreshing, served cold.",191,4.9,276,Out of Stock
+ITEM0436,Mocha,Coffee,Medium,Cold,"Medium Mocha, sweet and aromatic, served cold.",252,4.2,193,Out of Stock
+ITEM0437,Hazelnut Coffee,Coffee,Medium,Hot,"Medium Hazelnut Coffee, chocolate flavored, served hot.",103,3.4,530,Available
+ITEM0438,Americano,Coffee,Small,Cold,"Small Americano, caramel flavored, served cold.",313,3.2,498,Available
+ITEM0439,Caramel Latte,Coffee,Small,Cold,"Small Caramel Latte, nutty and balanced, served cold.",161,4.8,340,Available
+ITEM0440,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, mild and creamy, served cold.",122,3.9,229,Available
+ITEM0441,Macchiato,Coffee,Large,Cold,"Large Macchiato, smooth and creamy, served cold.",438,4.6,499,Available
+ITEM0442,Caramel Latte,Coffee,Small,Hot,"Small Caramel Latte, rich and strong, served hot.",189,4.1,195,Available
+ITEM0443,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, light and refreshing, served cold.",84,3.2,411,Available
+ITEM0444,Irish Cream Coffee,Coffee,Medium,Hot,"Medium Irish Cream Coffee, sweet and aromatic, served hot.",324,3.3,452,Available
+ITEM0445,Caramel Latte,Coffee,Small,Hot,"Small Caramel Latte, chocolate flavored, served hot.",240,3.9,366,Available
+ITEM0446,Macchiato,Coffee,Small,Hot,"Small Macchiato, caramel flavored, served hot.",115,4.2,68,Available
+ITEM0447,Cold Coffee,Coffee,Medium,Hot,"Medium Cold Coffee, nutty and balanced, served hot.",401,4.5,481,Out of Stock
+ITEM0448,Irish Cream Coffee,Coffee,Small,Hot,"Small Irish Cream Coffee, mild and creamy, served hot.",131,3.5,186,Out of Stock
+ITEM0449,Flat White,Coffee,Medium,Cold,"Medium Flat White, smooth and creamy, served cold.",151,3.6,146,Available
+ITEM0450,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, rich and strong, served cold.",433,3.2,368,Available
+ITEM0451,Iced Latte,Coffee,Large,Hot,"Large Iced Latte, light and refreshing, served hot.",280,3.7,115,Available
+ITEM0452,Cold Coffee,Coffee,Medium,Hot,"Medium Cold Coffee, sweet and aromatic, served hot.",203,4.1,132,Available
+ITEM0453,Flat White,Coffee,Medium,Hot,"Medium Flat White, chocolate flavored, served hot.",278,4.7,642,Out of Stock
+ITEM0454,Flat White,Coffee,Large,Hot,"Large Flat White, caramel flavored, served hot.",321,4.9,134,Available
+ITEM0455,Iced Mocha,Tea,Small,Cold,"Small Iced Mocha, nutty and balanced, served cold.",190,3.3,121,Out of Stock
+ITEM0456,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, mild and creamy, served cold.",296,4.5,144,Available
+ITEM0457,Mocha,Coffee,Small,Cold,"Small Mocha, smooth and creamy, served cold.",120,4.1,268,Available
+ITEM0458,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, rich and strong, served cold.",380,4.3,127,Available
+ITEM0459,Caramel Latte,Coffee,Medium,Hot,"Medium Caramel Latte, light and refreshing, served hot.",109,3.6,504,Available
+ITEM0460,Cold Coffee,Coffee,Large,Hot,"Large Cold Coffee, sweet and aromatic, served hot.",238,4.4,239,Available
+ITEM0461,Espresso,Coffee,Large,Hot,"Large Espresso, chocolate flavored, served hot.",439,3.2,568,Available
+ITEM0462,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, caramel flavored, served cold.",165,3.9,335,Available
+ITEM0463,Hazelnut Coffee,Coffee,Small,Cold,"Small Hazelnut Coffee, nutty and balanced, served cold.",299,3.7,125,Available
+ITEM0464,Caramel Latte,Coffee,Large,Hot,"Large Caramel Latte, mild and creamy, served hot.",334,4.0,428,Available
+ITEM0465,Cold Coffee,Coffee,Large,Hot,"Large Cold Coffee, smooth and creamy, served hot.",268,3.5,165,Available
+ITEM0466,Latte,Coffee,Large,Hot,"Large Latte, rich and strong, served hot.",102,4.7,72,Available
+ITEM0467,Espresso,Coffee,Medium,Cold,"Medium Espresso, light and refreshing, served cold.",276,4.9,243,Available
+ITEM0468,Iced Latte,Coffee,Large,Cold,"Large Iced Latte, sweet and aromatic, served cold.",194,3.8,486,Available
+ITEM0469,Mocha,Coffee,Small,Cold,"Small Mocha, chocolate flavored, served cold.",141,4.1,113,Available
+ITEM0470,Latte,Coffee,Large,Hot,"Large Latte, caramel flavored, served hot.",285,3.3,536,Available
+ITEM0471,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, nutty and balanced, served cold.",124,4.2,68,Available
+ITEM0472,Latte,Coffee,Medium,Cold,"Medium Latte, mild and creamy, served cold.",398,3.6,437,Out of Stock
+ITEM0473,Hazelnut Coffee,Coffee,Small,Hot,"Small Hazelnut Coffee, smooth and creamy, served hot.",157,3.2,479,Available
+ITEM0474,Latte,Coffee,Large,Cold,"Large Latte, rich and strong, served cold.",405,4.7,69,Available
+ITEM0475,Espresso,Coffee,Large,Cold,"Large Espresso, light and refreshing, served cold.",237,3.4,602,Available
+ITEM0476,Macchiato,Coffee,Medium,Hot,"Medium Macchiato, sweet and aromatic, served hot.",152,4.5,155,Available
+ITEM0477,Affogato,Dessert,Large,Cold,"Large Affogato, chocolate flavored, served cold.",438,4.8,529,Available
+ITEM0478,Iced Mocha,Tea,Large,Hot,"Large Iced Mocha, caramel flavored, served hot.",406,4.7,136,Available
+ITEM0479,Macchiato,Coffee,Large,Hot,"Large Macchiato, nutty and balanced, served hot.",201,3.7,382,Out of Stock
+ITEM0480,Caramel Latte,Coffee,Large,Cold,"Large Caramel Latte, mild and creamy, served cold.",242,4.0,299,Available
+ITEM0481,Latte,Coffee,Small,Hot,"Small Latte, smooth and creamy, served hot.",159,3.4,520,Out of Stock
+ITEM0482,Flat White,Coffee,Medium,Hot,"Medium Flat White, rich and strong, served hot.",354,3.8,272,Out of Stock
+ITEM0483,Mocha,Coffee,Medium,Cold,"Medium Mocha, light and refreshing, served cold.",141,3.4,371,Available
+ITEM0484,Latte,Coffee,Medium,Hot,"Medium Latte, sweet and aromatic, served hot.",126,4.5,424,Out of Stock
+ITEM0485,Iced Latte,Coffee,Small,Cold,"Small Iced Latte, chocolate flavored, served cold.",213,4.7,238,Available
+ITEM0486,Macchiato,Coffee,Medium,Hot,"Medium Macchiato, caramel flavored, served hot.",128,4.0,203,Available
+ITEM0487,Espresso,Coffee,Small,Hot,"Small Espresso, nutty and balanced, served hot.",146,3.6,470,Available
+ITEM0488,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, mild and creamy, served hot.",378,4.3,136,Available
+ITEM0489,Americano,Coffee,Small,Cold,"Small Americano, smooth and creamy, served cold.",145,3.4,399,Available
+ITEM0490,Espresso,Coffee,Medium,Hot,"Medium Espresso, rich and strong, served hot.",166,4.9,503,Out of Stock
+ITEM0491,Cold Coffee,Coffee,Small,Cold,"Small Cold Coffee, light and refreshing, served cold.",429,4.0,422,Available
+ITEM0492,Affogato,Dessert,Medium,Cold,"Medium Affogato, sweet and aromatic, served cold.",308,4.8,95,Available
+ITEM0493,Vanilla Latte,Coffee,Medium,Cold,"Medium Vanilla Latte, chocolate flavored, served cold.",290,4.8,550,Available
+ITEM0494,Americano,Coffee,Medium,Cold,"Medium Americano, caramel flavored, served cold.",150,4.0,598,Available
+ITEM0495,Vanilla Latte,Coffee,Large,Hot,"Large Vanilla Latte, nutty and balanced, served hot.",275,4.6,427,Out of Stock
+ITEM0496,Iced Latte,Coffee,Medium,Cold,"Medium Iced Latte, mild and creamy, served cold.",369,4.1,457,Available
+ITEM0497,Cappuccino,Coffee,Small,Cold,"Small Cappuccino, smooth and creamy, served cold.",385,3.6,347,Available
+ITEM0498,Hazelnut Coffee,Coffee,Medium,Cold,"Medium Hazelnut Coffee, rich and strong, served cold.",379,5.0,223,Available
+ITEM0499,Latte,Coffee,Large,Hot,"Large Latte, light and refreshing, served hot.",216,4.2,117,Available
+ITEM0500,Iced Mocha,Snack,Medium,Hot,"Medium Iced Mocha, sweet and aromatic, served hot.",170,3.6,385,Available
